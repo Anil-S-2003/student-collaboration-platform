@@ -31,7 +31,7 @@ A full-stack web application that allows student teams to upload buggy Python co
 ##  Installation & Running Locally
 
 ### Step 1: Clone the Repository
-git clone https://github.com/yourusername/student-collaboration-platform.git
+git clone https://github.com/Anil-S-2003/student-collaboration-platform.git
 cd student-collaboration-platform
 
 ## Step 2: Set Up Virtual Environment (Optional but recommended)
